@@ -1,6 +1,6 @@
 Hi 
 My TT: https://www.tiktok.com/@wxtermelxxxn
-Im a newish to coding
+Im newish to coding
 
 <!---
 wxtermln/wxtermln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
